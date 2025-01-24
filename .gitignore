@@ -1,0 +1,4 @@
+AppData/
+*.cache
+*.log
+*.tmp
